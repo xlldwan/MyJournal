@@ -1,51 +1,68 @@
 ## 实习工作与学习记录
+### 2021/04/16
+1.丰富京港澳高速路段场景细节。
+![](.\image\TollStation02.png)
+2.安装编译carla。
+***
+### 2021/04/15
+1.制作与修改路标贴图。<br>
+2.制作收费站道路的简单模型。<br>
+![](.\image\RoadSign01.png)
+![](.\image\RoadSign02.png)
+![](.\image\RoadSign03.png)
+![](.\image\RoadSign04.png)
+***
+### 2021/04/14
+制作25条所需的测试道路。
+![](.\image\L2Curve.png)
+***
 ### 2021/04/13
 1.制作路牌材质，优化效果。
-![](image\SignMaterial.png)
+![](.\image\SignMaterial.png)
 2.继续扩充道路标志牌模型库。
 ***
 ### 2021/04/12
 1.调整与优化收费站模型材质效果。
-![](image\TollStation.png)
+![](.\image\TollStation.png)
 2.收集道路标志牌模型，整理成库。
-![](image\RoadSignModel01.png)
+![](.\image\RoadSignModel01.png)
 ***
 ### 2021/04/09
 完成京港澳高速路段场景的初版。
-![](image\Road06.png)
+![](.\image\Road06.png)
 ***
 ### 2021/04/08
 布置京港澳高速路路段场景的环境。
-![](image\Road04.png)
-![](image\Road05.png)
+![](.\image\Road04.png)
+![](.\image\Road05.png)
 ***
 ### 2021/04/07
 搭建京港澳高速路段。
-![](image\Road01.png)
-![](image\Road02.png)
-![](image\Road03.png)
+![](.\image\Road01.png)
+![](.\image\Road02.png)
+![](.\image\Road03.png)
 ***
 ### 2021/04/06
 搭建京港澳高速路段隧道效果。
-![](image\Mountain.png)
-![](image\Tunnel.png)
+![](.\image\Mountain.png)
+![](.\image\Tunnel.png)
 ***
 ### 2021/04/02
 实现L3Test所需的模型材质效果。
-![](image\Cars.png)
+![](.\image\Cars.png)
 发现问题：在3dmax中，分离车身与轮子时，如果有两辆或两辆以上的车，在进行层级图解再导入UE4中，车身与车轮会**可能**会出现分开现象，无法变为整体。
-![](image\Problem.png)<br>
+![](.\image\Problem.png)<br>
 Tips:
 1.大部分搅拌车，理论容积为10方，参考江苏极东搅拌车，其外型尺寸为(长×宽×高)(cm)：1050×249.6×390。<br>
 2.奔驰sprinter车身尺寸为(长×宽×高)(cm)591x199.3x272。<br>
 3.宝马x7的车身尺寸为(长×宽×高)(cm)516.3x200x183.5。
-![单位cm](image\CarSize.png)
+![单位cm](.\image\CarSize.png)
 ***
 ### 2021/04/01
 1.完善模型动画效果。<br>
 2.修改模型蓝图。<br>
 3.制作L3Test场景。
-![](image\L3Test.png)
+![](.\image\L3Test.png)
 ***
 ### 2021/03/31
 添加和调整人物模型的动画效果。
@@ -53,16 +70,16 @@ Tips:
 ### 2021/03/30
 1.完成所需模型的搜集。
 2.制作模型材质。
-![](image\Model.png)
+![](.\image\Model.png)
 ***
 ### 2021/03/29
 搜集模型并进行动作与骨骼重定向。
 ***
 ### 2021/03/26
 1.为人物模型重新展UV贴图。
-![](image\PedUV.png)<br>
+![](.\image\PedUV.png)<br>
 2.调整人物模型的布料材质。
-![牛仔裤材质](image\Material01.png)
+![牛仔裤材质](.\image\Material01.png)
 ***
 ### 2021/03/25
 1.调整模型动作
@@ -72,8 +89,8 @@ Tips:
 ### 2021/03/24
 1.完成假人3D模型。<br>
 2.修改3D场景效果图。
-![](image\Car03.png)
-![](image\Car04.png)
+![](.\image\Car03.png)
+![](.\image\Car04.png)
 ***
 ### 2021/03/23
 1.制作假人3D模型。<br>
@@ -81,8 +98,8 @@ Tips:
 3.学习Python。
 ***
 ### 2021/03/22
-1.完成停车3D效果图。![](image\Car02.png)<br>
-2.修改新闻所需3D场景效果图。![](image\Car01.png)<br>
+1.完成停车3D效果图。![](.\image\Car02.png)<br>
+2.修改新闻所需3D场景效果图。![](.\image\Car01.png)<br>
 3.开始Python学习。
 ***
 ### 2021/03/19
@@ -92,15 +109,15 @@ Tips:
 ### 2021/03/18
 1.熟悉AirSim与Carla中的场景测试环境元素，进行分类记录。<br>
 2.在编译carla源码过程中，出现了以下问题：
-![](image\Error02.png)
+![](.\image\Error02.png)
 解决方法：https://www.cnblogs.com/qq2806933146xiaobai/p/13359446.html
 接着会出现以下问题
-![](image\Error03.png)
+![](.\image\Error03.png)
 ***
 ### 2021/03/17
 解决编码工具问题，编译UE4源码与carla源码。<br>
 遇到问题:carla源码在构建到"编译PythonAPI客户端"这一步卡住了。
-![](image\CmakeError.png)
+![](.\image\CmakeError.png)
 ↑原因分析：没安装python，导致无法编译PythonAPI
 ***
 ### 2021/03/16
