@@ -1,22 +1,28 @@
 ## 实习工作与学习记录
+### 2021/04/21
+熟悉官方文档的**添加道具、材质定制**操作，记录文档要点。
+### 2021/04/20
+熟悉官方文档的**添加车辆**操作，记录文档要点。
+### 2021/04/19
+成功编译Carla源码，熟悉官方文档的**地图提取**操作，记录文档要点。
 ### 2021/04/16
 1.丰富京港澳高速路段场景细节。
-![](.\image\TollStation02.png)
+![](./image/TollStation02.png)
 2.安装编译carla。<br>
 3.使用普通材质简单实现了个假边缘发光效果，**角**的位置有待优化。
-![](.\image\Material02.png)
+![](./image/Material02.png)
 ***
 ### 2021/04/15
 1.制作与修改路标贴图。<br>
 2.制作收费站道路的简单模型。<br>
-![](.\image\RoadSign01.png)
-![](.\image\RoadSign02.png)
-![](.\image\RoadSign03.png)
-![](.\image\RoadSign04.png)
+![](./image/RoadSign01.png)
+![](./image/RoadSign02.png)
+![](./image/RoadSign03.png)
+![](./image/RoadSign04.png)
 ***
 ### 2021/04/14
 制作25条所需的测试道路。
-![](.\image\L2Curve.png)
+![](./image/L2Curve.png)
 ***
 ### 2021/04/13
 1.制作路牌材质，优化效果。
