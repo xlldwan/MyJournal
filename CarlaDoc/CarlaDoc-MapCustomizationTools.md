@@ -33,8 +33,8 @@
 - **Scale offset（缩放偏移）**——缩放网格元素的长度使得元素之间的接缝变得圆滑。
 **PS：0.9.11版本的Carla所提供的BP_Wall里没有distance between这一属性，且不同模型的连接效果会有所区别。**
 ![](./CarlaDoc-Assets/Maptools04.png)
-#### BP_SplinePowerLine
-蓝图**BP_SplinePowerLine**是沿着贝塞尔预先定义的路径添加**电线杆，并将其与电源线相连接**。<br>
+#### BP_SplinePoweLine
+蓝图**BP_SplinePoweLine**是沿着贝塞尔预先定义的路径添加**电线杆，并将其与电源线相连接**。<br>
 在`Carla/Static/Pole`里，可以找到该蓝图。该蓝图允许设置需要重复的网格元素阵列，以提供多样性。<br>
 *可以对连接电线杆网格元素的电源线进行自定义编辑。*
 - **选择**将用作导线的**网格元素**。
