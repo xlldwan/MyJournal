@@ -1,7 +1,17 @@
 ## 实习工作与学习记录
 ***
+### 2021/06/04
+制作高压电塔，布置场景并调整细节。<br>
+![](./image/Expressway03.png)
+![](./image/Expressway04.png)
+![](./image/Expressway05.png)
+![](./image/Expressway06.png)
+***
+### 2021/06/03
+完成闭环高速路段道路的初步搭建。<br>
+![](./image/Expressway02.png)
 ### 2021/06/02
-将京港澳高速路段重新修改成闭环状。
+将京港澳高速路段重新修改成闭环状。<br>
 ![](./image/Expressway01.png)
 ### 2021/06/01
 整理京港澳高速路段的环境素材。
