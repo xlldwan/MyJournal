@@ -1,5 +1,35 @@
 ## 实习工作与学习记录
 ***
+### 2021/07/01
+总结了几种生成城市模型的方案：<br>
+1.**Blender+OSM插件/GIS插件**——通过获取谷歌、OpenStreetMap、天地图等地图经纬度及高度信息生成城市基础3D模型块，但限于简模，需要手动添加贴图与模型细节，且部分模型数据不够精确，使得生成时部分区域的建筑模型缺失。<br>
+2.**Blender+SceneCity插件(收费)**——采用节点的方式生成城市建筑、道路、植被等环境与景观，亦可生成地形，效果良好。它有自己的资产库，也可使用自己的模型资产。需要手动标记规划城市的路网与建筑布局，制作周期偏长。<br>
+![](./image/SceneCity05.png)<br>
+![](./image/SceneCity01.png)<br>
+![](./image/SceneCity02.png)<br>
+![](./image/SceneCity03.png)<br>
+![](./image/SceneCity04.png)<br>
+[上图源自SceneCity插件官网](http://www.cgchan.com/)<br>
+3.**Blender+BuildingTools插件**——基于不同形状面片，自定义生成建筑模型，可与SceneCity配合使用，搭建城市场景。<br>
+![](./image/BuildingTools.png)<br>
+[B站视频：Blender分分钟制作一座城市出来-Building Tools插件，如何快速制作建筑模型](https://www.bilibili.com/video/BV1DQ4y1d7BT/?spm_id_from=333.788.videocard.6)<br>
+4.**City Rig插件(收费)**——CityRig在C4D中可以快速生成一些具有中高细节城市环境和景观，包括街道、人行道、仓库、高楼、工厂和住宅等。创建过程简单，效果良好。<br>
+![](./image/CityRig01.png)
+![](./image/CityRig02.png)
+![](./image/CityRig03.png)<br>
+[上图源自CityRig插件官网](https://www.rennerflorian.de/wp/project/c4dcityrig)<br>
+***
+### 2021/06/30
+1.修改产品演示动画。<br>
+2.学习材质与地形知识。
+***
+### 2021/06/29
+1.寻找快速生成城市建筑模型的方法。<br>
+2.修改产品演示动画。
+***
+### 2021/06/28
+修改产品演示动画。
+***
 ### 2021/06/25
 1.简单实现了深度偏移材质，可用于**假高亮描边**。缺点是在有直角边与复杂的模型上，描边不明显，且部分描边需**相交**时才显示，旋转角度会遮挡掉部分描边，只能固定角度。<br>
 ![](./image/Material03.png)
@@ -88,7 +118,7 @@
 协助完成A1Q仿真视频所需的视频与脚本。
 ***
 ### 2021/05/27
-对资产进行分类与重命名。
+对资产进行分类与重命名。<br>
 ![](./image/Carla03.png)
 ***
 ### 2021/05/26
@@ -147,7 +177,7 @@ PS:由于贴图背景为黑色，所以要将材质混合模式改为Translucent
 1.添加三种道路的路沿元素。<br>
 ![](./image/Road09.png)
 ![](./image/Road10.png)
-![](./image/Road11.png)
+![](./image/Road11.png)<br>
 路沿元素主要添加新样条线，为其主路赋透明材质，启用Spline Extra或者Mesh Extra完成路沿效果。如果启用Mesh Extra，在有样条线有弯曲时，模型会出现衔接问题，使得效果看起来像锯齿化；启用Spline Extra可以解决这一问题，但路面的透明材质会失效。具体效果如下图。<br>
 ![](./image/Road08.png)
 2.制作路面文字标识贴图。<br>
