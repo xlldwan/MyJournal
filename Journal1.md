@@ -6,6 +6,22 @@
 3. 整理仿真软件早期常用场景。
 4. Sim2021制作舱外感知测试需求的资产：障碍物、灯光。
 ***
+### 2021/09/16
+开始Straight_Rain、Straight_Freespace的制作。<br>
+![](./image/NormalRoad03.png)
+***
+### 2021/09/15
+1.制作Straight_Snow、Straight_Rain。<br>
+2.修改雪地材质，完成Straight_Snow的制作。
+![](./image/NormalRoad02.png)
+***
+### 2021/09/14
+完成3km的BP_Straight的制作。
+![](./image/NormalRoad01.png)
+***
+### 2021/09/13
+新增路牌模型、贴图。
+***
 ### 2021/09/10
 1.完成BP_Straight。
 2.开始布置Straight_Snow、Straight_Rain、Straight_Freespace
