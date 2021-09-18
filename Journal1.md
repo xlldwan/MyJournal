@@ -6,18 +6,28 @@
 3. 整理仿真软件早期常用场景。
 4. Sim2021制作舱外感知测试需求的资产：障碍物、灯光。
 ***
+### 2021/09/18
+1.新增道路贴花-公交专用，公交专用道路标线、单独路沿模型。
+2.修改四车道路口，新增四车道路口-部分延申且无路沿。
+<image src=./image/NormalRoad04.png width=95%>
+***
+### 2021/09/17
+1.完成Straight_Decal的制作。
+2.新增四车道路口-带路沿。
+***
 ### 2021/09/16
-开始Straight_Rain、Straight_Freespace的制作。<br>
-![](./image/NormalRoad03.png)
+开始Straight_Rain、Straight_Freespace的制作。
+<image src=./image/NormalRoad03.png width=95%>
 ***
 ### 2021/09/15
-1.制作Straight_Snow、Straight_Rain。<br>
+1.制作Straight_Snow、Straight_Rain。
 2.修改雪地材质，完成Straight_Snow的制作。
-![](./image/NormalRoad02.png)
+![](./image/NormalRoad02.png =100x80)
+<image src=./image/NormalRoad02.png width=95%>
 ***
 ### 2021/09/14
 完成3km的BP_Straight的制作。
-![](./image/NormalRoad01.png)
+<image src=./image/NormalRoad01.png width=95%>
 ***
 ### 2021/09/13
 新增路牌模型、贴图。
@@ -60,8 +70,8 @@
 添加植物种类，修改模型与地形。
 ***
 ### 2021/08/26
-刷地形、材质，修改地面标识。<br>
-![](./image/L2-Minieye11.png)
+刷地形、材质，修改地面标识。
+<image src=./image/L2-Minieye11.png width=95%>
 ***
 ### 2021/08/25
 1.布置植被、路灯等场景元素。<br>
@@ -75,7 +85,7 @@
 ***
 ### 2021/08/20
 在Twinmotion中布置场景，丰富细节。
-![](./image/L2-Minieye10.png)
+<image src=./image/L2-Minieye10.png width=95%>
 ***
 ### 2021/08/19
 重新修改道路模型。
@@ -96,63 +106,63 @@
 测试深南城市场景行车效果，解决出现的碰撞、贴图问题。
 ***
 ### 2021/08/11
-1.学习Niagara制作下雪特效。<br>
+1.学习Niagara制作下雪特效。
 2.将深南城市道路场景导入Sim2021。
 ***
 ### 2021/08/10
 学习Niagara特效，制作简单雨水效果。
-![](./image/Niagara01.gif)
+<image src=./image/Niagara01.gif width=95%>
 ***
 ### 2021/08/09
 规范深南城市场景的资产，对资产进行查漏补缺。
 ***
 ### 2021/08/06
-1.整理深南城市场景资源。<br>
+1.整理深南城市场景资源。
 2.寻找解决面片置换偏移出错的方法。
 ***
 ### 2021/08/05
-1.研究静态积雪、动态积雪、交互积雪效果。<br>
+1.研究静态积雪、动态积雪、交互积雪效果。
 2.学习SUbstanceDesigner。
 ***
 ### 2021/08/04
 学习SubstanceDesigner，记录知识点。
 ***
 ### 2021/08/03
-1.学习SubstanceDesigner教程，制作地砖案例材质，并在导入UE4制作材质。<br>
-![](./image/Material06.png)
-![](./image/Material07.png)<br>
+1.学习SubstanceDesigner教程，制作地砖案例材质，并在导入UE4制作材质。
+<image src=./image/Material06.png width=95%>
+<image src=./image/Material07.png width=95%>
 2.总结SD知识点，思考该如何将PBR材质应用于深南城市场景。
 ***
 ### 2021/08/02
-1.学习SubstanceDesigner与Painter的基础教程。<br>
+1.学习SubstanceDesigner与Painter的基础教程。
 2.通过官方文档、技术博客等方式，了解UE4里天气系统与光照系统的基本原理。
 ***
 ### 2021/07/30
-完成深南附近城市场景的搭建。<br>
-![](./image/L2-Minieye07.png)
-![](./image/L2-Minieye08.png)
-![](./image/L2-Minieye09.png)
+完成深南附近城市场景的搭建。
+<image src=./image/L2-Minieye07.png width=95%>
+<image src=./image/L2-Minieye08.png width=95%>
+<image src=./image/L2-Minieye09.png width=95%>
 ***
 ### 2021/07/29
 对路网模型、贴图与场景地形进行改动。
 ***
 ### 2021/07/28
-1.添加道路地面标识。<br>
-2.添加路牌与桥体部分。<br>
+1.添加道路地面标识。
+2.添加路牌与桥体部分。
 3.添加城市物品等。
 ### 2021/07/27
 在UE4中，调整地形与道路的契合度，将不合理的道路回炉重造。
 ***
 ### 2021/07/26
-1.将Twinmotion与UE4通过插件与接口衔接，使模型能够成功导入。<br>
-2.测试和检查模型、材质的完整度。<br>
-![](./image/L2-Minieye06.png)
+1.将Twinmotion与UE4通过插件与接口衔接，使模型能够成功导入。
+2.测试和检查模型、材质的完整度。
+<image src=./image/L2-Minieye06.png width=95%>
 ***
 ### 2021/07/23
 在Twinmotion中完善场景细节。
 ***
 ### 2021/07/22
-1.将CityEngine里的场景模型修改、整合导出。<br>
+1.将CityEngine里的场景模型修改、整合导出。
 2.研究CityEngine、Twinmotion和UE4互导的方法。
 ***
 ### 2021/07/21
@@ -165,17 +175,17 @@
 研究如何获取DEM高程图，制作具备相应高度的地形。
 ***
 ### 2021/07/16
-1.继续修改城市路网，尝试导出道路模型。<br>
+1.继续修改城市路网，尝试导出道路模型。
 2.研究Blender的SceneCity插件。
 ***
 ### 2021/07/15
-在UE4中建立初步的城市场景。<br>
-![](./image/L2-Minieye04.png)
-![](./image/L2-Minieye05.png)
+在UE4中建立初步的城市场景。
+<image src=./image/L2-Minieye04.png width=95%>
+<image src=./image/L2-Minieye05.png width=95%>
 ***
 ### 2021/07/14
-修改城市GIS路网分布，套用部分CGA规则，建立初步的城市规模效果。<br>
-![](./image/CityEngine01.png)
+修改城市GIS路网分布，套用部分CGA规则，建立初步的城市规模效果。
+<image src=./image/CityEngine01.png width=95%>
 ***
 ### 2021/07/13
 协助设计组修改BSD动画。
@@ -184,7 +194,7 @@
 学习CityEngine的规则。
 ***
 ### 2021/07/09
-1.处理城市GIS数据文件。<br>
+1.处理城市GIS数据文件。
 2.研究CityEngine的CGA规则。
 ***
 ### 2021/07/08
@@ -194,66 +204,69 @@
 研究GIS数据的爬取方法。
 ***
 ### 2021/07/06
-1.修改产品演示动画。<br>
+1.修改产品演示动画。
 2.修改深南道路场景路网。
 ***
 ### 2021/07/05
-重新铺设深南附近道路场景的路网。<br>
-![](./image/L2-Minieye03.png)
+重新铺设深南附近道路场景的路网。
+<image src=./image/L2-Minieye03.png width=95%>
 ***
 ### 2021/07/03
 重新生成公司附近建筑3D简模，分析深南附近城市道路场景的路网分布，规划大体布局。
 ***
 ### 2021/07/01
-总结了几种生成城市模型的方案：<br>
-1.**Blender+OSM插件/GIS插件**——通过获取谷歌、OpenStreetMap、天地图等地图经纬度及高度信息生成城市基础3D模型块，但限于简模，需要手动添加贴图与模型细节，且部分模型数据不够精确，使得生成时部分区域的建筑模型缺失。<br>
-2.**Blender+SceneCity插件(收费)**——采用节点的方式生成城市建筑、道路、植被等环境与景观，亦可生成地形，效果良好。它有自己的资产库，也可使用自己的模型资产。需要手动标记规划城市的路网与建筑布局，制作周期偏长。<br>
-![](./image/SceneCity05.png)<br>
-![](./image/SceneCity01.png)<br>
-![](./image/SceneCity02.png)<br>
-![](./image/SceneCity03.png)<br>
-![](./image/SceneCity04.png)<br>
-[上图源自SceneCity插件官网](http://www.cgchan.com/)<br>
-3.**Blender+BuildingTools插件**——基于不同形状面片，自定义生成建筑模型，可与SceneCity配合使用，搭建城市场景。<br>
-![](./image/BuildingTools.png)<br>
-[B站视频：Blender分分钟制作一座城市出来-Building Tools插件，如何快速制作建筑模型](https://www.bilibili.com/video/BV1DQ4y1d7BT/?spm_id_from=333.788.videocard.6)<br>
-4.**City Rig插件(收费)**——CityRig在C4D中可以快速生成一些具有中高细节城市环境和景观，包括街道、人行道、仓库、高楼、工厂和住宅等。创建过程简单，效果良好。<br>
-![](./image/CityRig01.png)
-![](./image/CityRig02.png)
-![](./image/CityRig03.png)<br>
-[上图源自CityRig插件官网](https://www.rennerflorian.de/wp/project/c4dcityrig)<br>
+总结了几种生成城市模型的方案：
+1.**Blender+OSM插件/GIS插件**——通过获取谷歌、OpenStreetMap、天地图等地图经纬度及高度信息生成城市基础3D模型块，但限于简模，需要手动添加贴图与模型细节，且部分模型数据不够精确，使得生成时部分区域的建筑模型缺失。
+2.**Blender+SceneCity插件(收费)**——采用节点的方式生成城市建筑、道路、植被等环境与景观，亦可生成地形，效果良好。它有自己的资产库，也可使用自己的模型资产。需要手动标记规划城市的路网与建筑布局，制作周期偏长。
+<image src=./image/SceneCity05.png width=95%>
+<image src=./image/SceneCity01.png width=95%>
+<image src=./image/SceneCity02.png width=95%>
+<image src=./image/SceneCity03.png width=95%>
+<image src=./image/SceneCity04.png width=95%>
+
+[上图源自SceneCity插件官网](http://www.cgchan.com/)
+3.**Blender+BuildingTools插件**——基于不同形状面片，自定义生成建筑模型，可与SceneCity配合使用，搭建城市场景。
+<image src=./image/BuildingTools.png width=95%>
+
+[B站视频：Blender分分钟制作一座城市出来-Building Tools插件，如何快速制作建筑模型](https://www.bilibili.com/video/BV1DQ4y1d7BT/?spm_id_from=333.788.videocard.6)
+4.**City Rig插件(收费)**——CityRig在C4D中可以快速生成一些具有中高细节城市环境和景观，包括街道、人行道、仓库、高楼、工厂和住宅等。创建过程简单，效果良好。
+<image src=./image/CityRig01.png width=95%>
+<image src=./image/CityRig02.png width=95%>
+<image src=./image/CityRig03.png width=95%>CityRig01
+
+[上图源自CityRig插件官网](https://www.rennerflorian.de/wp/project/c4dcityrig)
 ***
 ### 2021/06/30
 1.修改产品演示动画。<br>
 2.学习材质与地形知识。
 ***
 ### 2021/06/29
-1.寻找快速生成城市建筑模型的方法。<br>
+1.寻找快速生成城市建筑模型的方法。
 2.修改产品演示动画。
 ***
 ### 2021/06/28
 修改产品演示动画。
 ***
 ### 2021/06/25
-1.简单实现了深度偏移材质，可用于**假高亮描边**。缺点是在有直角边与复杂的模型上，描边不明显，且部分描边需**相交**时才显示，旋转角度会遮挡掉部分描边，只能固定角度。<br>
-![](./image/Material03.png)
-![](./image/Material04.png)
-![](./image/Material01.gif)
-![](./image/Material05.png)
-2.协助设计组完成产品动画初稿。<br>
+1.简单实现了深度偏移材质，可用于**假高亮描边**。缺点是在有直角边与复杂的模型上，描边不明显，且部分描边需**相交**时才显示，旋转角度会遮挡掉部分描边，只能固定角度。
+<image src=./image/Material03.png width=95%>
+<image src=./image/Material04.png width=95%>
+<image src=./image/Material01.gif width=95%>
+<image src=./image/Material05.png width=95%>
+2.协助设计组完成产品动画初稿。
 ***
 ### 2021/06/24
-修改GIS模型，添加道路。<br>
-![](./image/L2-Minieye02.png)
+修改GIS模型，添加道路。
+<image src=./image/L2-Minieye02.png width=95%>
 ***
 ### 2021/06/23
-使用BlenderGIS导出公司附近建筑的简模。<br>
-缺点：路网交接处存在破面，部分建筑无法生成。<br>
-![](./image/L2-Minieye01.png)
+使用BlenderGIS导出公司附近建筑的简模。
+缺点：路网交接处存在破面，部分建筑无法生成。
+<image src=./image/L2-Minieye01.png width=95%>
 ***
 ### 2021/06/22
 协助设计组修改设计图。
-![](./image/car05.png)
+<image src=./image/Car05.png width=95%>
 ***
 ### 2021/06/21
 学习高模雕刻。
@@ -262,24 +275,24 @@
 学习建模与材质知识。
 ***
 ### 2021/06/17
-学习材质原理，制作高性能单片水材质。原理：利用"Singe Layer Water Material"节点，着色模型需改为单层水面。<br>
-不足之处：性能损耗高；须有一个底面贴图；UV边界显示较为明显。<br>
-![](./image/water2.gif)
-![](./image/water2.png)
-![](./image/water3.png)
+学习材质原理，制作高性能单片水材质。原理：利用"Singe Layer Water Material"节点，着色模型需改为单层水面。
+不足之处：性能损耗高；须有一个底面贴图；UV边界显示较为明显。
+<image src=./image/Water2.gif width=95%>
+<image src=./image/Water2.png width=95%>
+<image src=./image/Water3.png width=95%>
 ### 2021/06/16
-学习材质原理，制作岩浆材质。<br>
-![](./image/Lava.png)
+学习材质原理，制作岩浆材质。
+<image src=./image/Lava.png width=95%>
 ***
 ### 2021/06/15
-修改闭环高速路段场景细节。<br>
+修改闭环高速路段场景细节。
 ***
 ### 2021/06/11
-1.添加工地、水泥塔、房屋等模型，制作相应材质，丰富场景。<br>
-2.写脚本进行场景测试，录制测试效果视频。<br>
-![](./image/Expressway11.png)
-![](./image/Expressway12.png)
-![](./image/Expressway13.png)
+1.添加工地、水泥塔、房屋等模型，制作相应材质，丰富场景。
+2.写脚本进行场景测试，录制测试效果视频。
+<image src=./image/Expressway11.png width=95%>
+<image src=./image/Expressway12.png width=95%>
+<image src=./image/Expressway13.png width=95%>
 ***
 ### 2021/06/10
 1.新增路面标识贴花。<br>
