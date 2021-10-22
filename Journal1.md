@@ -6,6 +6,85 @@
 3. 整理仿真软件早期常用场景。
 4. Sim2021制作舱外感知测试需求的资产：障碍物、灯光。
 ***
+### 2021/10/21
+完成屏幕雨滴效果。
+<image src=./image/NormalRoad09.png width=95%>
+<image src=./image/NormalRoad10.png width=95%>
+***
+
+### 2021/10/20
+1.制作屏幕结冰效果。
+2.研究屏幕雨滴效果。
+<image src=./image/NormalRoad07.png width=95%>
+<image src=./image/NormalRoad08.png width=95%>
+***
+
+### 2021/10/19
+学习天气与光照知识，尝试优化sim2021天气。
+***
+### 2021/10/18
+修改车灯交互逻辑BUG。
+<figure>
+    <image src=./image/Vehicle001.gif width=25% >
+    <image src=./image/Vehicle002.gif width=25% >
+</figure>
+<figure>
+    <image src=./image/Vehicle003.gif width=25% >
+    <image src=./image/Vehicle004.gif width=25% >
+</figure>
+
+***
+### 2021/10/15
+编写转向灯、倒车灯的交互逻辑。
+***
+### 2021/10/14
+编写刹车灯交互逻辑。
+***
+### 2021/10/13
+1.制作车前灯、刹车灯效果。
+2.尝试制作了卡通材质，效果尚可，高光部分似乎不太准确。
+3.尝试用材质制作点光源与聚光灯效果，但在场景中将该材质赋予模型后，却无相应的效果产生，不知为何。
+***
+### 2021/10/12
+进行车灯效果的制作。
+***
+### 2021/10/11
+测试重置场景的道路，修改瑕疵。
+***
+da1.完成重置道路场景的工作。
+2.学习UnityShader、UE4材质数学原理知识，整理相关笔记。
+***
+### 2021/10/08
+修改分、汇流模型贴图，制作Straight_HasRiver、Straight_NoRiver。
+***
+### 2021/09/30
+修改、测试分、汇流模型，绘制合适的贴图。
+***
+### 2021/09/29
+制作分流、汇流路口模型。
+***
+### 2021/09/28
+1.新增5变4车道路段模型。
+2.新增Straight_5与Straight_9道路。
+***
+### 2021/09/27
+1.新增2条Curve道路。
+2.开始重置分流、汇流路口模型。
+***
+### 2021/09/26
+新增1条Curve道路与3条Slope道路。
+***
+### 2021/09/24
+新增2条Curve道路，开始重置坡道道路。
+***
+### 2021/09/23
+修改Curve道路，新增8条Curve道路。
+<image src=./image/NormalRoad05.png width=95%>
+***
+
+### 2021/09/22
+完成Curve的8条道路重置。
+***
 ### 2021/09/18
 1.新增道路贴花-公交专用，公交专用道路标线、单独路沿模型。
 2.修改四车道路口，新增四车道路口-部分延申且无路沿。
@@ -15,6 +94,7 @@
 1.完成Straight_Decal的制作。
 2.新增四车道路口-带路沿。
 ***
+
 ### 2021/09/16
 开始Straight_Rain、Straight_Freespace的制作。
 <image src=./image/NormalRoad03.png width=95%>
@@ -22,13 +102,14 @@
 ### 2021/09/15
 1.制作Straight_Snow、Straight_Rain。
 2.修改雪地材质，完成Straight_Snow的制作。
-![](./image/NormalRoad02.png =100x80)
 <image src=./image/NormalRoad02.png width=95%>
 ***
+
 ### 2021/09/14
 完成3km的BP_Straight的制作。
 <image src=./image/NormalRoad01.png width=95%>
 ***
+
 ### 2021/09/13
 新增路牌模型、贴图。
 ***
@@ -73,6 +154,7 @@
 刷地形、材质，修改地面标识。
 <image src=./image/L2-Minieye11.png width=95%>
 ***
+
 ### 2021/08/25
 1.布置植被、路灯等场景元素。<br>
 2.换电脑，重新配置环境。
@@ -87,6 +169,7 @@
 在Twinmotion中布置场景，丰富细节。
 <image src=./image/L2-Minieye10.png width=95%>
 ***
+
 ### 2021/08/19
 重新修改道路模型。
 ***
@@ -113,6 +196,7 @@
 学习Niagara特效，制作简单雨水效果。
 <image src=./image/Niagara01.gif width=95%>
 ***
+
 ### 2021/08/09
 规范深南城市场景的资产，对资产进行查漏补缺。
 ***
@@ -131,6 +215,7 @@
 1.学习SubstanceDesigner教程，制作地砖案例材质，并在导入UE4制作材质。
 <image src=./image/Material06.png width=95%>
 <image src=./image/Material07.png width=95%>
+
 2.总结SD知识点，思考该如何将PBR材质应用于深南城市场景。
 ***
 ### 2021/08/02
@@ -143,6 +228,7 @@
 <image src=./image/L2-Minieye08.png width=95%>
 <image src=./image/L2-Minieye09.png width=95%>
 ***
+
 ### 2021/07/29
 对路网模型、贴图与场景地形进行改动。
 ***
@@ -158,6 +244,7 @@
 2.测试和检查模型、材质的完整度。
 <image src=./image/L2-Minieye06.png width=95%>
 ***
+
 ### 2021/07/23
 在Twinmotion中完善场景细节。
 ***
@@ -187,6 +274,7 @@
 修改城市GIS路网分布，套用部分CGA规则，建立初步的城市规模效果。
 <image src=./image/CityEngine01.png width=95%>
 ***
+
 ### 2021/07/13
 协助设计组修改BSD动画。
 ***
@@ -211,6 +299,7 @@
 重新铺设深南附近道路场景的路网。
 <image src=./image/L2-Minieye03.png width=95%>
 ***
+
 ### 2021/07/03
 重新生成公司附近建筑3D简模，分析深南附近城市道路场景的路网分布，规划大体布局。
 ***
@@ -255,25 +344,31 @@
 <image src=./image/Material05.png width=95%>
 2.协助设计组完成产品动画初稿。
 ***
+
 ### 2021/06/24
 修改GIS模型，添加道路。
 <image src=./image/L2-Minieye02.png width=95%>
 ***
+
 ### 2021/06/23
 使用BlenderGIS导出公司附近建筑的简模。
 缺点：路网交接处存在破面，部分建筑无法生成。
 <image src=./image/L2-Minieye01.png width=95%>
 ***
+
 ### 2021/06/22
 协助设计组修改设计图。
 <image src=./image/Car05.png width=95%>
 ***
+
 ### 2021/06/21
 学习高模雕刻。
 ***
+
 ### 2021/06/18
 学习建模与材质知识。
 ***
+
 ### 2021/06/17
 学习材质原理，制作高性能单片水材质。原理：利用"Singe Layer Water Material"节点，着色模型需改为单层水面。
 不足之处：性能损耗高；须有一个底面贴图；UV边界显示较为明显。
@@ -284,6 +379,7 @@
 学习材质原理，制作岩浆材质。
 <image src=./image/Lava.png width=95%>
 ***
+
 ### 2021/06/15
 修改闭环高速路段场景细节。
 ***
@@ -294,6 +390,8 @@
 <image src=./image/Expressway12.png width=95%>
 <image src=./image/Expressway13.png width=95%>
 ***
+
+
 ### 2021/06/10
 1.新增路面标识贴花。<br>
 2.调整道路不同路段的车道线分布。<br>
