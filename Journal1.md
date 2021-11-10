@@ -6,8 +6,71 @@
 3. 整理仿真软件早期常用场景。
 4. Sim2021制作舱外感知测试需求的资产：障碍物、灯光。
 ***
+### 2021/11/10
+1.使用文本渲染组件新增Npc仿真车牌。
+<image src=./image/Plate01.png width=50%>
+<image src=./image/Plate02.png width=50%>
+2.修复UE4文件夹移动的重定向器问题。
+***
+
+### 2021/11/09
+1.规范资源路径命名。
+2.制作车牌的底色、文本材质。
+***
+### 2021/11/08
+制作其他种类车辆模型。
+***
+### 2021/11/06
+1.填写Sim2021资产路径。
+2.新增舱外感知测试资产，制作成带灯光的Npc。
+***
+### 2021/11/05
+1.规范、填写Sim2021资产路径。
+2.修改专利交底书。
+***
+### 2021/11/04
+1.填写Sim2021资产路径。
+2.制作舱外感知测试资产。
+***
+### 2021/11/03
+1.新增卡车、公交车带灯光的Npc。
+2.补充舱外感知资产库。
+***
+### 2021/11/02
+制作并测试Npc车灯效果。
+<image src=./image/VehicleLight01.png width=60%>
+<image src=./image/VehicleLight02.png width=60%>
+***
+
+### 2021/10/30
+修改合众项目视频仿真场景。
+***
+### 2021/10/29
+1.重新制作隧道模型。
+2.修改合众项目视频仿真场景。
+***
+### 2021/10/28
+编写专利交底书
+***
+### 2021/10/27
+编写专利交底书
+***
+### 2021/10/26
+1.编写专利交底书
+2.协助车道组制作演示效果图
+<figure>
+    <image src=./image/1026001.png width=50% ><image src=./image/1026002.png width=50% ><image src=./image/1026003.png width=50%><image src=./image/1026004.png width=50% >
+</figure>
+
+***
+### 2021/10/25
+编写专利交底书
+***
+### 2021/10/22
+编写专利交底书
+***
 ### 2021/10/21
-完成屏幕雨滴效果。
+完成屏幕雨滴效果。后续需添加风力对雨滴的影响、路面雨滴涟漪。
 <image src=./image/NormalRoad09.png width=95%>
 <image src=./image/NormalRoad10.png width=95%>
 ***
@@ -25,12 +88,7 @@
 ### 2021/10/18
 修改车灯交互逻辑BUG。
 <figure>
-    <image src=./image/Vehicle001.gif width=25% >
-    <image src=./image/Vehicle002.gif width=25% >
-</figure>
-<figure>
-    <image src=./image/Vehicle003.gif width=25% >
-    <image src=./image/Vehicle004.gif width=25% >
+    <image src=./image/Vehicle001.gif width=25% ><image src=./image/Vehicle002.gif width=25% ><image src=./image/Vehicle003.gif width=25% ><image src=./image/Vehicle004.gif width=25% >
 </figure>
 
 ***
@@ -51,7 +109,8 @@
 ### 2021/10/11
 测试重置场景的道路，修改瑕疵。
 ***
-da1.完成重置道路场景的工作。
+### 2021/10/09
+1.完成重置道路场景的工作。
 2.学习UnityShader、UE4材质数学原理知识，整理相关笔记。
 ***
 ### 2021/10/08
