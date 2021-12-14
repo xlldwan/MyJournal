@@ -1,11 +1,5 @@
 ## 实习工作与学习记录
 ***
-第三个月培养计划：
-1. 学习编写文档，整理工作和学习的知识。
-2. Sim2021进行天气、光照系统的优化，同时尝试使用Niagara。
-3. 整理仿真软件早期常用场景。
-4. Sim2021制作舱外感知测试需求的资产：障碍物、灯光。
-***
 ### 2021/12/14
 对雨刮器算法进行UE换算。
 总结：相比与Blender，UE的部分算法相对比较难用或者是需要通过自定义Shader来实现效果，例如：RGB曲线、Voronoi噪波、颜色渐变节点等。
@@ -14,9 +8,9 @@
 ### 2021/12/13
 1. 调整沙尘粒子效果。
 2. 实现下雪和雪雾粒子效果。
-<image src=./image/WindSand.gif width=90%>
-<image src=./image/SnowFog01.gif width=90%>
-<img src=./image/SnowFog02.gif width=90%>
+<img src=./images/WindSand.gif width=90%>
+<img src=./images/SnowFog01.gif width=90%>
+<img src=./images/SnowFog02.gif width=90%><br>
 在制作了两个效果后，觉得Niagara粒子能迅速上手，做出一些简单又实用的效果，但如果需要做一些比较绚丽/复杂的效果（例如烟雾等），则需要Houdini写脚本进行模拟运算并渲染序列图，或者是通过Substance Designer、PS来制作特定贴图，某些比较依赖代码逻辑的特效，则制作蓝图或者自定义一些功能来实现。
 ***
 
@@ -55,7 +49,7 @@
 ***
 ### 2021/11/30
 新增动物模型。
-<image src=./image/Animals.png width=95%>
+<img src=./images/Animals.png width=95%>
 ***
 
 ### 2021/11/29
@@ -103,12 +97,12 @@
 ### 2021/11/13
 1. 新增限宽牌、限重牌资产。
 2. 搭建G1L仿真场景。
-<image src=./image/G1L02.png width=95%>
+<img src=./images/G1L02.png width=95%>
 ***
 
 ### 2021/11/12
 制作G1L仿真资产。
-<image src=./image/G1L01.png width=95%>
+<img src=./images/G1L01.png width=95%>
 ***
 
 ### 2021/11/11
@@ -118,9 +112,9 @@
 ***
 ### 2021/11/10
 1. 使用文本渲染组件新增Npc仿真车牌。
-<image src=./image/Plate01.png width=50%>
-<image src=./image/Plate02.png width=50%>
-2. 修复UE4文件夹移动的重定向器问题。
+2. 修复UE4文件夹移动的重定向器问题。<br>
+<img src=./images/Plate01.png width=50%>
+<img src=./images/Plate02.png width=50%><br>
 ***
 
 ### 2021/11/09
@@ -147,9 +141,10 @@
 2. 补充舱外感知资产库。
 ***
 ###  2021/11/02
-制作并测试Npc车灯效果。
-<image src=./image/VehicleLight01.png width=60%>
-<image src=./image/VehicleLight02.png width=60%>
+制作并测试Npc车灯效果。<br>
+<img src=./images/VehicleLight01.png width=60%>
+<img src=./images/VehicleLight02.png width=60%>
+
 ***
 
 ### 2021/10/30
@@ -169,10 +164,11 @@
 1. 编写专利交底书
 2. 协助车道组制作演示效果图
 <figure>
-    <image src=./image/1026001.png width=50% ><image src=./image/1026002.png width=50% ><image src=./image/1026003.png width=50%><image src=./image/1026004.png width=50% >
+    <img src=./images/1026001.png width=50% ><img src=./images/1026002.png width=50% ><img src=./images/1026003.png width=50%><img src=./images/1026004.png width=50% >
 </figure>
 
 ***
+
 ### 2021/10/25
 编写专利交底书
 ***
@@ -181,15 +177,17 @@
 ***
 ### 2021/10/21
 完成屏幕雨滴效果。后续需添加风力对雨滴的影响、路面雨滴涟漪。
-<image src=./image/NormalRoad09.png width=95%>
-<image src=./image/NormalRoad10.png width=95%>
+<img src=./images/NormalRoad09.png width=95%>
+<img src=./images/NormalRoad10.png width=95%>
+
 ***
 
 ### 2021/10/20
 1. 制作屏幕结冰效果。
 2. 研究屏幕雨滴效果。
-<image src=./image/NormalRoad07.png width=95%>
-<image src=./image/NormalRoad08.png width=95%>
+<img src=./images/NormalRoad07.png width=95%>
+<img src=./images/NormalRoad08.png width=95%>
+
 ***
 
 ### 2021/10/19
@@ -198,7 +196,7 @@
 ### 2021/10/18
 修改车灯交互逻辑BUG。
 <figure>
-    <image src=./image/Vehicle001.gif width=25% ><image src=./image/Vehicle002.gif width=25% ><image src=./image/Vehicle003.gif width=25% ><image src=./image/Vehicle004.gif width=25% >
+    <img src=./images/Vehicle001.gif width=25% ><img src=./images/Vehicle002.gif width=25% ><img src=./images/Vehicle003.gif width=25% ><img src=./images/Vehicle004.gif width=25% >
 </figure>
 
 ***
@@ -248,39 +246,36 @@
 ***
 ### 2021/09/23
 修改Curve道路，新增8条Curve道路。
-<image src=./image/NormalRoad05.png width=95%>
-***
+<img src=./images/NormalRoad05.png width=95%>
 
+***
 ### 2021/09/22
 完成Curve的8条道路重置。
 ***
 ### 2021/09/18
 1. 新增道路贴花-公交专用，公交专用道路标线、单独路沿模型。
 2. 修改四车道路口，新增四车道路口-部分延申且无路沿。
-<image src=./image/NormalRoad04.png width=95%>
-***
+<img src=./images/NormalRoad04.png width=95%>
 
+***
 ### 2021/09/17
 1. 完成Straight_Decal的制作。
 2. 新增四车道路口-带路沿。
 ***
-
 ### 2021/09/16
 开始Straight_Rain、Straight_Freespace的制作。
-<image src=./image/NormalRoad03.png width=95%>
+<img src=./images/NormalRoad03.png width=95%>
 ***
-
 ### 2021/09/15
 1. 制作Straight_Snow、Straight_Rain。
 2. 修改雪地材质，完成Straight_Snow的制作。
-<image src=./image/NormalRoad02.png width=95%>
+<img src=./images/NormalRoad02.png width=95%>
 ***
-
 ### 2021/09/14
 完成3km的BP_Straight的制作。
-<image src=./image/NormalRoad01.png width=95%>
-***
+<img src=./images/NormalRoad01.png width=95%>
 
+***
 ### 2021/09/13
 新增路牌模型、贴图。
 ***
@@ -323,9 +318,8 @@
 ***
 ### 2021/08/26
 刷地形、材质，修改地面标识。
-<image src=./image/L2-Minieye11.png width=95%>
+<img src=./images/L2-Minieye11.png width=95%>
 ***
-
 ### 2021/08/25
 1. 布置植被、路灯等场景元素。<br>
 2. 换电脑，重新配置环境。
@@ -338,9 +332,8 @@
 ***
 ### 2021/08/20
 在Twinmotion中布置场景，丰富细节。
-<image src=./image/L2-Minieye10.png width=95%>
+<img src=./images/L2-Minieye10.png width=95%>
 ***
-
 ### 2021/08/19
 重新修改道路模型。
 ***
@@ -365,9 +358,8 @@
 ***
 ### 2021/08/10
 学习Niagara特效，制作简单雨水效果。
-<image src=./image/Niagara01.gif width=95%>
+<img src=./images/Niagara01.gif width=95%>
 ***
-
 ### 2021/08/09
 规范深南城市场景的资产，对资产进行查漏补缺。
 ***
@@ -384,22 +376,20 @@
 ***
 ### 2021/08/03
 1. 学习SubstanceDesigner教程，制作地砖案例材质，并在导入UE4制作材质。
-<image src=./image/Material06.png width=95%>
-<image src=./image/Material07.png width=95%>
+<img src=./images/Material06.png width=95%>
+<img src=./images/Material07.png width=95%>
 2. 总结SD知识点，思考该如何将PBR材质应用于深南城市场景。
 ***
-
 ### 2021/08/02
 1. 学习SubstanceDesigner与Painter的基础教程。
 2. 通过官方文档、技术博客等方式，了解UE4里天气系统与光照系统的基本原理。
 ***
 ### 2021/07/30
 完成深南附近城市场景的搭建。
-<image src=./image/L2-Minieye07.png width=95%>
-<image src=./image/L2-Minieye08.png width=95%>
-<image src=./image/L2-Minieye09.png width=95%>
+<img src=./images/L2-Minieye07.png width=95%>
+<img src=./images/L2-Minieye08.png width=95%>
+<img src=./images/L2-Minieye09.png width=95%>
 ***
-
 ### 2021/07/29
 对路网模型、贴图与场景地形进行改动。
 ***
@@ -413,9 +403,8 @@
 ### 2021/07/26
 1. 将Twinmotion与UE4通过插件与接口衔接，使模型能够成功导入。
 2. 测试和检查模型、材质的完整度。
-<image src=./image/L2-Minieye06.png width=95%>
+<img src=./images/L2-Minieye06.png width=95%>
 ***
-
 ### 2021/07/23
 在Twinmotion中完善场景细节。
 ***
@@ -438,14 +427,13 @@
 ***
 ### 2021/07/15
 在UE4中建立初步的城市场景。
-<image src=./image/L2-Minieye04.png width=95%>
-<image src=./image/L2-Minieye05.png width=95%>
+<img src=./images/L2-Minieye04.png width=95%>
+<img src=./images/L2-Minieye05.png width=95%>
 ***
 ### 2021/07/14
 修改城市GIS路网分布，套用部分CGA规则，建立初步的城市规模效果。
-<image src=./image/CityEngine01.png width=95%>
+<img src=./images/CityEngine01.png width=95%>
 ***
-
 ### 2021/07/13
 协助设计组修改BSD动画。
 ***
@@ -468,9 +456,8 @@
 ***
 ### 2021/07/05
 重新铺设深南附近道路场景的路网。
-<image src=./image/L2-Minieye03.png width=95%>
+<img src=./images/L2-Minieye03.png width=95%>
 ***
-
 ### 2021/07/03
 重新生成公司附近建筑3D简模，分析深南附近城市道路场景的路网分布，规划大体布局。
 ***
@@ -478,22 +465,19 @@
 总结了几种生成城市模型的方案：
 1. **Blender+OSM插件/GIS插件**——通过获取谷歌、OpenStreetMap、天地图等地图经纬度及高度信息生成城市基础3D模型块，但限于简模，需要手动添加贴图与模型细节，且部分模型数据不够精确，使得生成时部分区域的建筑模型缺失。
 2. **Blender+SceneCity插件(收费)**——采用节点的方式生成城市建筑、道路、植被等环境与景观，亦可生成地形，效果良好。它有自己的资产库，也可使用自己的模型资产。需要手动标记规划城市的路网与建筑布局，制作周期偏长。
-<image src=./image/SceneCity05.png width=95%>
-<image src=./image/SceneCity01.png width=95%>
-<image src=./image/SceneCity02.png width=95%>
-<image src=./image/SceneCity03.png width=95%>
-<image src=./image/SceneCity04.png width=95%>
-
+<img src=./images/SceneCity05.png width=95%>
+<img src=./images/SceneCity01.png width=95%>
+<img src=./images/SceneCity02.png width=95%>
+<img src=./images/SceneCity03.png width=95%>
+<img src=./images/SceneCity04.png width=95%>
 [上图源自SceneCity插件官网](http://www.cgchan.com/)
 3. **Blender+BuildingTools插件**——基于不同形状面片，自定义生成建筑模型，可与SceneCity配合使用，搭建城市场景。
-<image src=./image/BuildingTools.png width=95%>
-
+<img src=./images/BuildingTools.png width=95%>
 [B站视频：Blender分分钟制作一座城市出来-Building Tools插件，如何快速制作建筑模型](https://www.bilibili.com/video/BV1DQ4y1d7BT/?spm_id_from=333.788.videocard.6)
 4. **City Rig插件(收费)**——CityRig在C4D中可以快速生成一些具有中高细节城市环境和景观，包括街道、人行道、仓库、高楼、工厂和住宅等。创建过程简单，效果良好。
-<image src=./image/CityRig01.png width=95%>
-<image src=./image/CityRig02.png width=95%>
-<image src=./image/CityRig03.png width=95%>CityRig01
-
+<img src=./images/CityRig01.png width=95%>
+<img src=./images/CityRig02.png width=95%>
+<img src=./images/CityRig03.png width=95%>
 [上图源自CityRig插件官网](https://www.rennerflorian.de/wp/project/c4dcityrig)
 ***
 ### 2021/06/30
@@ -509,64 +493,55 @@
 ***
 ### 2021/06/25
 1. 简单实现了深度偏移材质，可用于**假高亮描边**。缺点是在有直角边与复杂的模型上，描边不明显，且部分描边需**相交**时才显示，旋转角度会遮挡掉部分描边，只能固定角度。
-<image src=./image/Material03.png width=95%>
-<image src=./image/Material04.png width=95%>
-<image src=./image/Material01.gif width=95%>
-<image src=./image/Material05.png width=95%>
+<img src=./images/Material03.png width=95%>
+<img src=./images/Material04.png width=95%>
+<img src=./images/Material01.gif width=95%>
+<img src=./images/Material05.png width=95%>
 2. 协助设计组完成产品动画初稿。
 ***
-
 ### 2021/06/24
 修改GIS模型，添加道路。
-<image src=./image/L2-Minieye02.png width=95%>
+<img src=./images/L2-Minieye02.png width=95%>
 ***
-
 ### 2021/06/23
 使用BlenderGIS导出公司附近建筑的简模。
 缺点：路网交接处存在破面，部分建筑无法生成。
-<image src=./image/L2-Minieye01.png width=95%>
+<img src=./images/L2-Minieye01.png width=95%>
 ***
-
 ### 2021/06/22
 协助设计组修改设计图。
-<image src=./image/Car05.png width=95%>
+<img src=./images/Car05.png width=95%>
 ***
-
 ### 2021/06/21
 学习高模雕刻。
 ***
-
 ### 2021/06/18
 学习建模与材质知识。
 ***
-
 ### 2021/06/17
 学习材质原理，制作高性能单片水材质。原理：利用"Singe Layer Water Material"节点，着色模型需改为单层水面。
 不足之处：性能损耗高；须有一个底面贴图；UV边界显示较为明显。
-<image src=./image/Water2.gif width=95%>
-<image src=./image/Water2.png width=95%>
-<image src=./image/Water3.png width=95%>
+<img src=./images/Water2.gif width=95%>
+<img src=./images/Water2.png width=95%>
+<img src=./images/Water3.png width=95%>
 ### 2021/06/16
 学习材质原理，制作岩浆材质。
-<image src=./image/Lava.png width=95%>
+<img src=./images/Lava.png width=95%>
 ***
-
 ### 2021/06/15
 修改闭环高速路段场景细节。
 ***
 ### 2021/06/11
 1. 添加工地、水泥塔、房屋等模型，制作相应材质，丰富场景。
 2. 写脚本进行场景测试，录制测试效果视频。
-<image src=./image/Expressway11.png width=95%>
-<image src=./image/Expressway12.png width=95%>
-<image src=./image/Expressway13.png width=95%>
+<img src=./images/Expressway11.png width=95%>
+<img src=./images/Expressway12.png width=95%>
+<img src=./images/Expressway13.png width=95%>
 ***
-
-
 ### 2021/06/10
 1. 新增路面标识贴花。<br>
 2. 调整道路不同路段的车道线分布。<br>
-![](./image/Expressway09.png)
+<img src=./images/Expressway09.png width=95%>
 ![](./image/Expressway10.png)
 ***
 ### 2021/06/09
