@@ -16,7 +16,7 @@
 2. 实现下雪和雪雾粒子效果。
 <image src=./image/WindSand.gif width=90%>
 <image src=./image/SnowFog01.gif width=90%>
-<image src=./image/SnowFog02.gif width=90%>
+<img src=./image/SnowFog02.gif width=90%>
 在制作了两个效果后，觉得Niagara粒子能迅速上手，做出一些简单又实用的效果，但如果需要做一些比较绚丽/复杂的效果（例如烟雾等），则需要Houdini写脚本进行模拟运算并渲染序列图，或者是通过Substance Designer、PS来制作特定贴图，某些比较依赖代码逻辑的特效，则制作蓝图或者自定义一些功能来实现。
 ***
 
