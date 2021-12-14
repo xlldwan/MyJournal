@@ -49,9 +49,9 @@
 ***
 ### 2021/11/30
 新增动物模型。
-<img src=./images/Animals.png width=95%>
-***
+<img src=./images/Animals.png width=90%>
 
+***
 ### 2021/11/29
 重置自车远光灯、雾灯、示廓灯、转向灯、倒车灯等面片光效果。
 ### 2021/11/27
@@ -97,14 +97,14 @@
 ### 2021/11/13
 1. 新增限宽牌、限重牌资产。
 2. 搭建G1L仿真场景。
-<img src=./images/G1L02.png width=95%>
-***
+<img src=./images/G1L02.png width=90%>
 
+***
 ### 2021/11/12
 制作G1L仿真资产。
-<img src=./images/G1L01.png width=95%>
-***
+<img src=./images/G1L01.png width=90%>
 
+***
 ### 2021/11/11
 1. 规范资源路径。
 2. 新增消防车、救护车、警车、三轮车等模型以及车灯。
@@ -115,8 +115,8 @@
 2. 修复UE4文件夹移动的重定向器问题。<br>
 <img src=./images/Plate01.png width=50%>
 <img src=./images/Plate02.png width=50%><br>
-***
 
+***
 ### 2021/11/09
 1. 规范资产路径命名。
 2. 制作车牌的底色、文本材质。
@@ -146,7 +146,6 @@
 <img src=./images/VehicleLight02.png width=60%>
 
 ***
-
 ### 2021/10/30
 修改合众项目视频仿真场景。
 ***
@@ -177,16 +176,16 @@
 ***
 ### 2021/10/21
 完成屏幕雨滴效果。后续需添加风力对雨滴的影响、路面雨滴涟漪。
-<img src=./images/NormalRoad09.png width=95%>
-<img src=./images/NormalRoad10.png width=95%>
+<img src=./images/NormalRoad09.png width=90%>
+<img src=./images/NormalRoad10.png width=90%>
 
 ***
 
 ### 2021/10/20
 1. 制作屏幕结冰效果。
 2. 研究屏幕雨滴效果。
-<img src=./images/NormalRoad07.png width=95%>
-<img src=./images/NormalRoad08.png width=95%>
+<img src=./images/NormalRoad07.png width=90%>
+<img src=./images/NormalRoad08.png width=90%>
 
 ***
 
@@ -246,7 +245,7 @@
 ***
 ### 2021/09/23
 修改Curve道路，新增8条Curve道路。
-<img src=./images/NormalRoad05.png width=95%>
+<img src=./images/NormalRoad05.png width=90%>
 
 ***
 ### 2021/09/22
@@ -255,7 +254,7 @@
 ### 2021/09/18
 1. 新增道路贴花-公交专用，公交专用道路标线、单独路沿模型。
 2. 修改四车道路口，新增四车道路口-部分延申且无路沿。
-<img src=./images/NormalRoad04.png width=95%>
+<img src=./images/NormalRoad04.png width=90%>
 
 ***
 ### 2021/09/17
@@ -264,16 +263,17 @@
 ***
 ### 2021/09/16
 开始Straight_Rain、Straight_Freespace的制作。
-<img src=./images/NormalRoad03.png width=95%>
+<img src=./images/NormalRoad03.png width=90%>
 ***
 ### 2021/09/15
 1. 制作Straight_Snow、Straight_Rain。
 2. 修改雪地材质，完成Straight_Snow的制作。
-<img src=./images/NormalRoad02.png width=95%>
+<img src=./images/NormalRoad02.png width=90%>
+
 ***
 ### 2021/09/14
 完成3km的BP_Straight的制作。
-<img src=./images/NormalRoad01.png width=95%>
+<img src=./images/NormalRoad01.png width=90%>
 
 ***
 ### 2021/09/13
@@ -318,7 +318,8 @@
 ***
 ### 2021/08/26
 刷地形、材质，修改地面标识。
-<img src=./images/L2-Minieye11.png width=95%>
+<img src=./images/L2-Minieye11.png width=90%>
+
 ***
 ### 2021/08/25
 1. 布置植被、路灯等场景元素。<br>
@@ -332,7 +333,8 @@
 ***
 ### 2021/08/20
 在Twinmotion中布置场景，丰富细节。
-<img src=./images/L2-Minieye10.png width=95%>
+<img src=./images/L2-Minieye10.png width=90%>
+
 ***
 ### 2021/08/19
 重新修改道路模型。
@@ -358,7 +360,8 @@
 ***
 ### 2021/08/10
 学习Niagara特效，制作简单雨水效果。
-<img src=./images/Niagara01.gif width=95%>
+<img src=./images/Niagara01.gif width=90%>
+
 ***
 ### 2021/08/09
 规范深南城市场景的资产，对资产进行查漏补缺。
@@ -376,9 +379,10 @@
 ***
 ### 2021/08/03
 1. 学习SubstanceDesigner教程，制作地砖案例材质，并在导入UE4制作材质。
-<img src=./images/Material06.png width=95%>
-<img src=./images/Material07.png width=95%>
 2. 总结SD知识点，思考该如何将PBR材质应用于深南城市场景。
+<img src=./images/Material06.png width=90%>
+<img src=./images/Material07.png width=90%>
+
 ***
 ### 2021/08/02
 1. 学习SubstanceDesigner与Painter的基础教程。
@@ -386,9 +390,10 @@
 ***
 ### 2021/07/30
 完成深南附近城市场景的搭建。
-<img src=./images/L2-Minieye07.png width=95%>
-<img src=./images/L2-Minieye08.png width=95%>
-<img src=./images/L2-Minieye09.png width=95%>
+<img src=./images/L2-Minieye07.png width=90%>
+<img src=./images/L2-Minieye08.png width=90%>
+<img src=./images/L2-Minieye09.png width=90%>
+
 ***
 ### 2021/07/29
 对路网模型、贴图与场景地形进行改动。
@@ -403,7 +408,8 @@
 ### 2021/07/26
 1. 将Twinmotion与UE4通过插件与接口衔接，使模型能够成功导入。
 2. 测试和检查模型、材质的完整度。
-<img src=./images/L2-Minieye06.png width=95%>
+<img src=./images/L2-Minieye06.png width=90%>
+
 ***
 ### 2021/07/23
 在Twinmotion中完善场景细节。
@@ -427,12 +433,13 @@
 ***
 ### 2021/07/15
 在UE4中建立初步的城市场景。
-<img src=./images/L2-Minieye04.png width=95%>
-<img src=./images/L2-Minieye05.png width=95%>
+<img src=./images/L2-Minieye04.png width=90%>
+<img src=./images/L2-Minieye05.png width=90%>
 ***
 ### 2021/07/14
 修改城市GIS路网分布，套用部分CGA规则，建立初步的城市规模效果。
-<img src=./images/CityEngine01.png width=95%>
+<img src=./images/CityEngine01.png width=90%>
+
 ***
 ### 2021/07/13
 协助设计组修改BSD动画。
@@ -456,7 +463,8 @@
 ***
 ### 2021/07/05
 重新铺设深南附近道路场景的路网。
-<img src=./images/L2-Minieye03.png width=95%>
+<img src=./images/L2-Minieye03.png width=90%>
+
 ***
 ### 2021/07/03
 重新生成公司附近建筑3D简模，分析深南附近城市道路场景的路网分布，规划大体布局。
@@ -465,20 +473,23 @@
 总结了几种生成城市模型的方案：
 1. **Blender+OSM插件/GIS插件**——通过获取谷歌、OpenStreetMap、天地图等地图经纬度及高度信息生成城市基础3D模型块，但限于简模，需要手动添加贴图与模型细节，且部分模型数据不够精确，使得生成时部分区域的建筑模型缺失。
 2. **Blender+SceneCity插件(收费)**——采用节点的方式生成城市建筑、道路、植被等环境与景观，亦可生成地形，效果良好。它有自己的资产库，也可使用自己的模型资产。需要手动标记规划城市的路网与建筑布局，制作周期偏长。
-<img src=./images/SceneCity05.png width=95%>
-<img src=./images/SceneCity01.png width=95%>
-<img src=./images/SceneCity02.png width=95%>
-<img src=./images/SceneCity03.png width=95%>
-<img src=./images/SceneCity04.png width=95%>
+<img src=./images/SceneCity05.png width=90%>
+<img src=./images/SceneCity01.png width=90%>
+<img src=./images/SceneCity02.png width=90%>
+<img src=./images/SceneCity03.png width=90%>
+<img src=./images/SceneCity04.png width=90%>
 [上图源自SceneCity插件官网](http://www.cgchan.com/)
+
 3. **Blender+BuildingTools插件**——基于不同形状面片，自定义生成建筑模型，可与SceneCity配合使用，搭建城市场景。
-<img src=./images/BuildingTools.png width=95%>
+<img src=./images/BuildingTools.png width=90%>
 [B站视频：Blender分分钟制作一座城市出来-Building Tools插件，如何快速制作建筑模型](https://www.bilibili.com/video/BV1DQ4y1d7BT/?spm_id_from=333.788.videocard.6)
+
 4. **City Rig插件(收费)**——CityRig在C4D中可以快速生成一些具有中高细节城市环境和景观，包括街道、人行道、仓库、高楼、工厂和住宅等。创建过程简单，效果良好。
-<img src=./images/CityRig01.png width=95%>
-<img src=./images/CityRig02.png width=95%>
-<img src=./images/CityRig03.png width=95%>
+<img src=./images/CityRig01.png width=90%>
+<img src=./images/CityRig02.png width=90%>
+<img src=./images/CityRig03.png width=90%>
 [上图源自CityRig插件官网](https://www.rennerflorian.de/wp/project/c4dcityrig)
+
 ***
 ### 2021/06/30
 1. 修改产品演示动画。<br>
@@ -496,21 +507,25 @@
 <img src=./images/Material03.png width=95%>
 <img src=./images/Material04.png width=95%>
 <img src=./images/Material01.gif width=95%>
-<img src=./images/Material05.png width=95%>
-2. 协助设计组完成产品动画初稿。
+<img src=./images/Material05.png width=95%><br>
+
+2. 协助设计组完成产品动画初稿
 ***
 ### 2021/06/24
 修改GIS模型，添加道路。
 <img src=./images/L2-Minieye02.png width=95%>
+
 ***
 ### 2021/06/23
 使用BlenderGIS导出公司附近建筑的简模。
 缺点：路网交接处存在破面，部分建筑无法生成。
 <img src=./images/L2-Minieye01.png width=95%>
+
 ***
 ### 2021/06/22
 协助设计组修改设计图。
 <img src=./images/Car05.png width=95%>
+
 ***
 ### 2021/06/21
 学习高模雕刻。
@@ -522,11 +537,14 @@
 学习材质原理，制作高性能单片水材质。原理：利用"Singe Layer Water Material"节点，着色模型需改为单层水面。
 不足之处：性能损耗高；须有一个底面贴图；UV边界显示较为明显。
 <img src=./images/Water2.gif width=95%>
-<img src=./images/Water2.png width=95%>
-<img src=./images/Water3.png width=95%>
+<img src=./images/Water2.png width=90%>
+<img src=./images/Water3.png width=90%>
+
+***
 ### 2021/06/16
 学习材质原理，制作岩浆材质。
-<img src=./images/Lava.png width=95%>
+<img src=./images/Lava.png width=90%>
+
 ***
 ### 2021/06/15
 修改闭环高速路段场景细节。
@@ -534,41 +552,54 @@
 ### 2021/06/11
 1. 添加工地、水泥塔、房屋等模型，制作相应材质，丰富场景。
 2. 写脚本进行场景测试，录制测试效果视频。
-<img src=./images/Expressway11.png width=95%>
-<img src=./images/Expressway12.png width=95%>
-<img src=./images/Expressway13.png width=95%>
+<img src=./images/Expressway11.png width=90%>
+<img src=./images/Expressway12.png width=90%>
+<img src=./images/Expressway13.png width=90%>
+
 ***
 ### 2021/06/10
 1. 新增路面标识贴花。<br>
 2. 调整道路不同路段的车道线分布。<br>
-<img src=./images/Expressway09.png width=95%>
-![](./image/Expressway10.png)
+<img src=./images/Expressway09.png width=90%>
+<img src=./images/Expressway10.png width=90%>
+
+
 ***
 ### 2021/06/09
 1.制作广告牌、桥梁、新路牌、减速带的模型与材质。<br>
-![](./image/Expressway08.png)
+<img src=./images/Expressway08.png width=90%>
+
+
 ***
 ### 2021/06/08
 1. 添加加油站、防撞桶模型。<br>
 2. 重新布置道路，添加贴花与路牌元素。<br>
-![](./image/Expressway07.png)
+<img src=./images/Expressway07.png width=90%>
+
 ***
 ### 2021/06/07
 布置场景四周植被。
 ***
 ### 2021/06/04
 制作高压电塔，布置场景并调整细节。<br>
-![](./image/Expressway03.png)
-![](./image/Expressway04.png)
-![](./image/Expressway05.png)
-![](./image/Expressway06.png)
+<img src=./images/Expressway03.png width=90%>
+
+<img src=./images/Expressway04.png width=90%>
+
+<img src=./images/Expressway05.png width=90%>
+
+<img src=./images/Expressway06.png width=90%>
+
 ***
 ### 2021/06/03
 完成闭环高速路段道路的初步搭建。<br>
-![](./image/Expressway02.png)
+<img src=./images/Expressway02.png width=90%>
+
 ### 2021/06/02
 将京港澳高速路段重新修改成闭环状。<br>
-![](./image/Expressway01.png)
+<img src=./images/Expressway01.png width=90%>
+
+
 ### 2021/06/01
 整理京港澳高速路段的环境素材。
 ***
@@ -580,114 +611,139 @@
 ***
 ### 2021/05/27
 对资产进行分类与重命名。<br>
-![](./image/Carla03.png)
+<img src=./images/Carla03.png width=90%>
+
 ***
 ### 2021/05/26
 提取和整理建筑物的蓝图、模型等资产。<br>
-![](./image/Carla02.png)
+<img src=./images/Carla02.png width=90%>
+
 ***
 ### 2021/05/25
 进一步提取整理Carla的车辆与人物模型资产。<br>
-![](./image/Carla01.png)
+<img src=./images/Carla01.png width=90%>
+
 ***
 ### 2021/05/24
 整理Carla的车辆美术资产。
 ***
 ### 2021/05/21
 使用Blender制作一扇门的低模，记录下部分Blender的快捷键操作和修改器用途。<br>
-![](./image/Blender01.png)
+<img src=./images/Blender01.png width=90%>
+
 ***
 ### 2021/05/20
 修改路沿仿真场景道路。<br>
-![](./image/Road15.png)
+<img src=./images/Road15.png width=90%>
+
 ***
 ### 2021/05/19
 完成路沿仿真场景的坡道与弯道。<br>
-![](./image/Road14.png)
+<img src=./images/Road14.png width=90%>
+
 ***
 ### 2021/05/18
 1.继续搜集道具模型。<br>
 2.完成路沿仿真场景中的直道。<br>
-![](./image/Road13.png)
+<img src=./images/Road13.png width=90%>
+
 ***
 ### 2021/05/17
 1.用数学节点的方式实现特效材质，原理为计算并提取出AxA矩阵贴图中每行每列的**单个**图像，然后逐帧跳转，其优点是可以调节帧率速度。<br>
 PS:由于贴图背景为黑色，所以要将材质混合模式改为Translucent(半透明)，该材质可用于车辆中或道路上的一些动态图像的实现（局限：需要用到AxA矩阵贴图，且限于平面上）。
-![](./image/Explosion.png)
-![](./image/Explosion.gif)<br>
-2.实现一个简单的水流材质。
-![](./image/Water.png)
-![](./image/Water.gif)
+<img src=./images/Explosion.png width=90%>
+<img src=./images/Explosion.gif><br>
+2.实现一个简单的水流材质。<br>
+<img src=./images/Water.png width=90%>
+<img src=./images/Water.gif>
+
 ***
 ### 2021/05/14
 学习Python，尝试写脚本，并在UE4中运行。
 ***
 ### 2021/05/13
 完成路面感知仿真场景Case10-18要求的道路。<br>
-![](./image/Road12.png)
+<img src=./images/Road12.png width=90%>
+
 ***
 ### 2021/05/12
 完成坡道上道具元素的添加。<br>
-![](./image/Props03.png)
+<img src=./images/Props03.png width=90%>
+
 ***
 ### 2021/05/11
 在直道与弯道上添加道具元素。<br>
-![](./image/Props02.png)
+<img src=./images/Props02.png width=90%>
+
 ***
 ### 2021/05/10
 1. 添加三种道路的路沿元素。<br>
-![](./image/Road09.png)
-![](./image/Road10.png)
-![](./image/Road11.png)<br>
+<img src=./images/Road09.png width=90%>
+<img src=./images/Road10.png width=90%>
+<img src=./images/Road11.png width=90%><br>
 路沿元素主要添加新样条线，为其主路赋透明材质，启用Spline Extra或者Mesh Extra完成路沿效果。如果启用Mesh Extra，在有样条线有弯曲时，模型会出现衔接问题，使得效果看起来像锯齿化；启用Spline Extra可以解决这一问题，但路面的透明材质会失效。具体效果如下图。<br>
-![](./image/Road08.png)
+<img src=./images/Road08.png width=90%><br>
 2. 制作路面文字标识贴图。<br>
-![](./image/Words.png)
+<img src=./images/Words.png width=90%>
+
 ***
 ### 2021/05/08
 1. 制作路面感知仿真场景所需道路。<br>
 2. 补充路面标识贴图。<br>
-![](./image/Road07.png)
+<img src=./images/Road07.png width=90%>
+
 ***
 ### 2021/05/07
 制作场景元素材质，实现其在场景中的写实效果。<br>
-![](./image/Props01.png)
+<img src=./images/Props01.png width=90%>
+
 ***
 ### 2021/05/06
 搜集和整理路面感知仿真场景所需道具元素。
 ***
 ### 2021/04/30
 学习和摸索SpeedTree，实现树的效果。<br>
-![](./image/TreeTest01.png)
+<img src=./images/TreeTest01.png width=90%>
+
 ***
 ### 2021/04/29
 1. 修改贴图细节。<br>
 2. 在场景中实现道路效果。<br>
 3. 总结个人工作月报。<br>
-![](./image/RoadMark08.png)
-![](./image/RoadMark09.png)
+<img src=./images/RoadMark08.png width=90%>
+
+<img src=./images/RoadMark09.png width=90%>
+
 ***
 ### 2021/04/28
 根据道路UV制作道路贴图。<br>
-![](./image/RoadMark07.png)
+<img src=./images/RoadMark07.png width=90%>
+
 ***
 ### 2021/04/27
 1. 修改分流道路模型。<br>
 2. 制作收窄与扩宽道路模型。<br>
 3. 制作道路的UV贴图。<br>
-![](./image/RoadMark05.png)
-![](./image/RoadMark06.png)
+<img src=./images/RoadMark05.png width=90%>
+
+<img src=./images/RoadMark06.png width=90%>
+
 ***
 ### 2021/04/26
 1. 制作路面磨损效果。<br>
-![](./image/RoadMark02.png)
-![](./image/RoadMark03.png)
+<img src=./images/RoadMark02.png width=90%>
+
+<img src=./images/RoadMark03.png width=90%>
+<br>
 2. 制作分流道路模型。<br>
-![](./image/RoadMark04.png)
+<img src=./images/RoadMark04.png width=90%>
+
 ***
 ### 2021/04/25
 完成14个道路标识贴图的绘制。<br>
-![](./image/RoadMark01.png)
+<img src=./images/RoadMark01.png width=90%>
+
+
 ***
 ### 2021/04/23
 完成Carla官方文档**地图自定义工具**文档的要点记录，在**天气蓝图**这一小节中，调节了相应参数，但实现的效果不理想，出现了过度曝光问题，因而对这小节的总结记录不是很到位。
@@ -706,70 +762,98 @@ PS:由于贴图背景为黑色，所以要将材质混合模式改为Translucent
 ***
 ### 2021/04/16
 1. 丰富京港澳高速路段场景细节。<br>
-![](./image/TollStation02.png)
-2. 安装编译carla。<br>
+<img src=./images/TollStation02.png width=90%>
+<br>
+2. 安装编译carla。
 3. 使用普通材质简单实现了个假边缘发光效果，**角**的位置有待优化。<br>
-![](./image/Material02.png)
+<img src=./images/Material02.png width=90%>
+
 ***
 ### 2021/04/15
 1. 制作与修改路标贴图。<br>
 2. 制作收费站道路的简单模型。<br>
-![](./image/RoadSign01.png)
-![](./image/RoadSign02.png)
-![](./image/RoadSign03.png)
-![](./image/RoadSign04.png)
+<img src=./images/RoadSign01.png width=90%>
+
+<img src=./images/RoadSign02.png width=90%>
+
+<img src=./images/RoadSign03.png width=90%>
+
+<img src=./images/RoadSign04.png width=90%>
+
+
 ***
 ### 2021/04/14
 制作25条所需的测试道路。<br>
-![](./image/L2Curve.png)
+<img src=./images/L2Curve.png width=90%>
+
 ***
 ### 2021/04/13
-1. 制作路牌材质，优化效果。<br>
-![](.\image\SignMaterial.png)
-2. 继续扩充道路标志牌模型库。
+1. 制作路牌材质，优化效果。
+2. 继续扩充道路标志牌模型库。<br>
+<img src=./images/SignMaterial.png width=90%>
+
 ***
 ### 2021/04/12
 1. 调整与优化收费站模型材质效果。<br>
-![](.\image\TollStation.png)
+<img src=./images/TollStation.png width=90%>
 2. 收集道路标志牌模型，整理成库。<br>
-![](.\image\RoadSignModel01.png)
+<img src=./images/RoadSignModel01.png width=90%>
+
 ***
 ### 2021/04/09
 完成京港澳高速路段场景的初版。<br>
-![](.\image\Road06.png)
+<img src=./images/Road06.png width=90%>
+
+
 ***
 ### 2021/04/08
 布置京港澳高速路路段场景的环境。<br>
-![](.\image\Road04.png)
-![](.\image\Road05.png)
+<img src=./images/Road04.png width=90%>
+
+<img src=./images/Road05.png width=90%>
+
+
 ***
 ### 2021/04/07
 搭建京港澳高速路段。<br>
-![](.\image\Road01.png)
-![](.\image\Road02.png)
-![](.\image\Road03.png)
+<img src=./images/Road01.png width=90%>
+
+<img src=./images/Road02.png width=90%>
+
+<img src=./images/Road03.png width=90%>
+
+
 ***
 ### 2021/04/06
 搭建京港澳高速路段隧道效果。<br>
-![](.\image\Mountain.png)
-![](.\image\Tunnel.png)
+<img src=./images/Mountain.png width=90%>
+
+<img src=./images/Tunnel.png width=90%>
+
+
 ***
 ### 2021/04/02
 实现L3Test所需的模型材质效果。<br>
-![](.\image\Cars.png)
+<img src=./images/Cars.png width=90%>
+<br>
 发现问题：在3dmax中，分离车身与轮子时，如果有两辆或两辆以上的车，在进行层级图解再导入UE4中，车身与车轮会**可能**会出现分开现象，无法变为整体。<br>
-![](.\image\Problem.png)<br>
+<img src=./images/Problem.png width=90%>
+<br>
 Tips:
 1.大部分搅拌车，理论容积为10方，参考江苏极东搅拌车，其外型尺寸为(长×宽×高)(cm)：1050×249.6×390。<br>
 2.奔驰sprinter车身尺寸为(长×宽×高)(cm)591x199.3x272。<br>
 3.宝马x7的车身尺寸为(长×宽×高)(cm)516.3x200x183.5。<br>
-![单位cm](.\image\CarSize.png)
+<img src=./images/CarSize.png width=90%>
+
+
 ***
 ### 2021/04/01
 1. 完善模型动画效果。<br>
 2. 修改模型蓝图。<br>
 3. 制作L3Test场景。<br>
-![](.\image\L3Test.png)
+<img src=./images/L3Test.png width=90%>
+
+
 ***
 ### 2021/03/31
 添加和调整人物模型的动画效果。
@@ -777,16 +861,21 @@ Tips:
 ### 2021/03/30
 1.完成所需模型的搜集。<br>
 2.制作模型材质。<br>
-![](.\image\Model.png)
+<img src=./images/Model.png width=90%>
+
+
 ***
 ### 2021/03/29
 搜集模型并进行动作与骨骼重定向。
 ***
 ### 2021/03/26
 1.为人物模型重新展UV贴图。<br>
-![](.\image\PedUV.png)<br>
+<img src=./images/PedUV.png width=90%>
+<br>
 2.调整人物模型的布料材质。<br>
-![牛仔裤材质](.\image\Material01.png)
+<img src=./images/Material01.png width=90%>
+
+
 ***
 ### 2021/03/25
 1.调整模型动作<br>
@@ -796,8 +885,11 @@ Tips:
 ### 2021/03/24
 1. 完成假人3D模型。<br>
 2. 修改3D场景效果图。<br>
-![](.\image\Car03.png)
-![](.\image\Car04.png)
+<img src=./images/Car03.png width=90%>
+
+<img src=./images/Car04.png width=90%>
+
+
 ***
 ### 2021/03/23
 1. 制作假人3D模型。<br>
@@ -805,8 +897,10 @@ Tips:
 3. 学习Python。
 ***
 ### 2021/03/22
-1. 完成停车3D效果图。![](.\image\Car02.png)<br>
-2. 修改新闻所需3D场景效果图。![](.\image\Car01.png)<br>
+1. 完成停车3D效果图。<img src=./images/Car02.png width=90%>
+<br>
+2. 修改新闻所需3D场景效果图。<img src=./images/Car01.png width=90%>
+<br>
 3. 开始Python学习。
 ***
 ### 2021/03/19
@@ -816,16 +910,21 @@ Tips:
 ### 2021/03/18
 1. 熟悉AirSim与Carla中的场景测试环境元素，进行分类记录。<br>
 2. 在编译carla源码过程中，出现了以下问题：<br>
-![](.\image\Error02.png)
+<img src=./images/Error02.png width=90%>
+
 解决方法：https://www.cnblogs.com/qq2806933146xiaobai/p/13359446.html<br>
 接着会出现以下问题<br>
-![](.\image\Error03.png)
+<img src=./images/Error03.png width=90%>
+
+
 ***
 ### 2021/03/17
 解决编码工具问题，编译UE4源码与carla源码。<br>
 遇到问题:carla源码在构建到"编译PythonAPI客户端"这一步卡住了。<br>
-![](.\image\CmakeError.png)
+<img src=./images/CmakeError.png width=90%>
+
 ↑原因分析：没安装python，导致无法编译PythonAPI
+
 ***
 ### 2021/03/16
 1. 下载UE4源码并编译。<br>
